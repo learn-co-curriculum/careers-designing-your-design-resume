@@ -1,4 +1,4 @@
-# Designing Your Resume
+# Designing Your Design Resume
 
 Now that you have the content done, it’s time to design it. You will dive in deeper on the designs of your resume with your Lead Instructor, but here are a few things to remind yourself of:
 
