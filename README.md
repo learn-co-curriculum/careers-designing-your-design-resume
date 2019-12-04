@@ -10,7 +10,7 @@ Set up your resume file to 8.5x11” **the standard letter size at portrait layo
 
 Additionally, during setup, don’t forget to **select and use a grid.** Don’t use only one column in your layout as it’s been proven harder to read. This forces the reader’s eye to move across the page and back, over and over, which is tiring. And it usually leaves a lot of awkward white space if text lines don’t go all the way across the page. Always use multiple columns. Your reader will thank you, and it allows you more flexibility in laying out various sections.
 
-<img src=”https://curriculum-content.s3.amazonaws.com/design/phase6/One-Column-Resume-Example.png”>
+![](https://curriculum-content.s3.amazonaws.com/design/phase6/One-Column-Resume-Example.png)
 
 **Visual Hierarchy Is Important**
 
